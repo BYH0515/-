@@ -1,0 +1,10 @@
+git基本应用
+
+1） 初始化仓库
+    >git  init
+2) 添加到文件到仓库 让Git追踪
+    >Git add*
+3)查看Git 仓库状态
+    >Git status
+4)提交版本
+    >git config --gloabl user.am
